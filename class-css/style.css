@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+.borda{
+    border: 2px solid rebeccapurple;
+}
+.azul{
+    background: blue;
+}
+.vermelho{
+    background: red;
+}
+.amarelo{
+    background: yellow;
+}
+div{
+    display: inline-block;
+    width: 33%;
+    height: 150px;
+}
+a.botao{
+    border: 2px solid rebeccapurple;
+    display: inline-block;
+    margin-top: 100px;
+    width: 50%;
+    height: 50px;
+    text-align: center;
+}
